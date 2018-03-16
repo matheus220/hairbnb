@@ -31,7 +31,7 @@ Inspired by the dribble shot http://dribbble.com/shots/1285240-Freebie-Flat-Pric
     font-size: 1.3rem;
     margin-bottom: 4rem;
 }
-.block{
+.block2{
     position: relative;
     height: 80vh;
     width: 30%;    
@@ -43,7 +43,7 @@ Inspired by the dribble shot http://dribbble.com/shots/1285240-Freebie-Flat-Pric
 /*    border: 1px solid red;*/
 }
 @media screen and (max-width: 768px) {
-  .block {
+  .block2 {
     width: 100%;
   }
 }
