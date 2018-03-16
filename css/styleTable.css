@@ -38,7 +38,7 @@ Inspired by the dribble shot http://dribbble.com/shots/1285240-Freebie-Flat-Pric
   }
 }
 .top{
-    min-height: 525px;
+    min-height: 500px;
 }
 /*Shared properties*/
 .title,.pt-footer{
@@ -51,7 +51,7 @@ Inspired by the dribble shot http://dribbble.com/shots/1285240-Freebie-Flat-Pric
 .content{
     position: relative;
     color: #FEFEFE;
-    padding: 20px 20px 10px 20px;
+    padding: 15px 15px 8px 15px;
 }
 /*arrow creation*/
 .content:after, .content:before,.pt-footer:before,.pt-footer:after {
@@ -98,11 +98,11 @@ Inspired by the dribble shot http://dribbble.com/shots/1285240-Freebie-Flat-Pric
     background: #FFFFFF;
     text-align: left;
     color: #9C9C9C;
-    padding:15px 12%;
+    padding:10px 12%;
     font-size: 1.5rem;
 }
 .features li{
-    padding:8px 0;
+    padding:7px 0;
     width: 100%;
 }
 .features li span{
