@@ -24,8 +24,6 @@ Inspired by the dribble shot http://dribbble.com/shots/1285240-Freebie-Flat-Pric
     margin-bottom: 4rem;
 }
 .block2{
-    position: relative;
-    height: 80vh;
     width: 30%;    
     margin: 0 15px;
     overflow: hidden;
@@ -96,7 +94,7 @@ Inspired by the dribble shot http://dribbble.com/shots/1285240-Freebie-Flat-Pric
     font-size: 0.9rem;
 }
 .features{
-
+    position: relative;
     background: #FFFFFF;
     text-align: left;
     color: #9C9C9C;
